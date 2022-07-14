@@ -27,8 +27,8 @@ div.calculadora {
 }
 
 p#result {
-    color: #000;
     background-color: #fff;
+    color: #000;
     height: 50px;
     width: 309px;
     padding-left: 9px;
